@@ -79,12 +79,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacellen&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&border=36BCF7)
-
-</div>
-
 ---
 
 ## 🏆 Достижения GitHub
@@ -101,7 +95,7 @@
 
 <div align="center">
 
-[![VKontakte](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/extended_rust)
+[![VKontakte](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/Jacellen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jacellen@vk.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacellen)
 
