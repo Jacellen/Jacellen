@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jacellen/count.svg" alt="jacellen" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjacellen&count_bg=%2336BCF7&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="jacellen" />
 </div>
 
 ---
@@ -19,7 +19,6 @@
 ## 🌟 Обо мне
 
 - 🔭 **Сейчас работаю над** [Extended Rust](https://vk.com/extended_rust) - интересный проект на Rust
-- 👯 **Хочу сотрудничать** в [PlutonTeam](https://github.com/PlutonTeam)
 - 💻 **Увлекаюсь** системным программированием и разработкой игр
 - 📧 **Контакты**: [Jacellen@vk.com](mailto:Jacellen@vk.com)
 - 💡 **Люблю** изучать новые технологии и применять их на практике
@@ -34,7 +33,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Фреймворки и платформы
@@ -91,14 +89,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jacellen&label=Profile%20views&color=36BCF7&style=flat-square" alt="jacellen" />
-</div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/Platane/snk/svg?name=jacellen&user=jacellen)
-
 </div>
 
 ---
